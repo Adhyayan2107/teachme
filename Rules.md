@@ -521,7 +521,7 @@
 
 ---
 
-## 💪 WHAT YOU'LL LEARN
+## 💪 WHAT I'LL LEARN
 
 ### Frontend Skills
 - React and Next.js 14
@@ -644,14 +644,6 @@ By end of 3 months, you'll have:
 - Export study materials to PDF
 - Offline mode
 - Multiple language support
-
-### Career Impact
-- Add to portfolio/resume
-- Write blog posts about your journey
-- Post demo on LinkedIn/Twitter
-- Apply for internships/jobs
-- Freelance similar projects
-- Build SaaS version (monetize!)
 
 ---
 
